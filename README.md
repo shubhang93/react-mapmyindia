@@ -46,7 +46,7 @@ run `npm install && npm build`
 ```
 
 
-#### Knows issues
+#### Known issues
 
 - Zoom does not work sometimes
 - Rendering large number of markers may result in sluggish performance
